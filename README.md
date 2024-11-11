@@ -1,2 +1,5 @@
 # app-dev
-My first repository
+**My first repository**
+my favorite genre of manga are: 
+fantasy 
+and action
